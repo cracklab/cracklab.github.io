@@ -1,0 +1,11 @@
+title: C R A C K L A B
+description: >- # this means to ignore newlines until "baseurl:"
+  Event stream for the Helsinki-based cracklab meetings.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: cracklab
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed

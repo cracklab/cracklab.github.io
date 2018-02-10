@@ -1,0 +1,49 @@
+main {
+    max-width: 40em;
+	margin: auto;
+	float: center;
+}
+
+main div {
+	margin: 1em auto;
+	padding: 0em 1em;
+	border: 1px solid black;
+	/*box-shadow: 0.5em 0.5em #000;*/
+	text-align: justify;
+	font-family: sans-serif;
+}
+
+.banner {
+	text-align: center;
+}
+
+.footer {
+	text-align: center;
+}
+
+h1 {
+	font-size: 2em;
+	font-family: monospace;
+	text-align: center;	
+}
+
+h2 {
+	font-family: monospace;
+}
+
+a {
+	color: #044;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+li a {
+	font-family: monospace;
+}
+
+ul {
+	list-style-type: none;
+}
